@@ -1,0 +1,12 @@
+on.style=Rounded>`_
+              font library.
+
+            - ``"spinner"``: Displays a spinner as an icon.
+
+            The icon is decorative: it is not included in the heading's
+            accessible name and does not affect the auto-generated anchor.
+
+        width : "stretch", "content", or int
+            The width of the title element. This can be one of the following:
+
+            - ``"s
